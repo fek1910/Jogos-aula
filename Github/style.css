@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+
+:root{
+--corsecundaria:#D9E8EE;
+--cortexto:#D1DADE;
+--cortitulo:#83B8CD;
+
+
+
+}
+
+
+
+
+
+
+body{
+background-color:#110E2A;
+font-family: 'Montserrat', sans-serif;
+padding:25px;
+margin-top: 30px;
+
+
+
+
+}
+h1{
+font-size: 50 px;
+color:solid black;
+background-color:var(--cortitulo);
+text-align: center;
+margin:5px 600px 5px 600px;
+}
+.paragrafo-inicial{
+color: solid black;
+background-color: var(--cortexto);
+font-size: 25px;
+text-align:center;
+margin: 5px 600px 5px 600px;
+margin-top: 50px;
+display:block;
+border: 2px solid black;
+margin-bottom: 40px;
+}
+h2{
+font-size: 40px;
+color: solid black;
+background-color:bisque;
+text-align: center;
+margin: 5px 600px 5px 600px;
+background-color: var(--cortexto);
+margin-top: 25px;
+margin-bottom: 25px;
+
+}
+.texto-inicial{
+color:solid black;
+display: inline-block;
+border:3px solid black;
+text-align:center;
+margin: 5px 400px 5px 400px;
+background-color: var(--cortexto);
+font-size: larger;
+}
+.segundo-texto{
+color:solid black;
+display:inline-block;
+border: 3px solid black;
+margin: 5px 400px 5px 400px;
+background-color: var(--cortexto);
+font-size:larger;
+}
+.terceiro-texto{
+color:solid black;
+display: inline-block;
+border: 3px solid black;
+margin: 5px 400px 5px 400px;
+background-color: var(--cortexto);
+font-size:larger;
+}
+
+.quarto-texto{
+color: solid black;
+display: inline-block;
+border: 3px solid black;
+margin: 5px 400px 5px 400px;
+background-color: var(--cortexto);
+font-size:larger;
+
+}
+
+.quinto-texto{
+color:solid black;
+display: inline-block;
+border: 3px solid black;
+margin: 5px 400px 5px 400px;
+background-color: var(--cortexto);
+font-size: larger;
+}
+
+footer{
+text-align: center;
+display: inline-block;
+color:solid black;
+background-color:var(--cortexto);
+font-size:30px;
+margin-top: 100px;
+
+}
+.links-jogos{
+align-items: center;
+text-align: center;
+color: solid black;
+border-radius: var(--cortitulo);
+
+
+
+
+}
+.conteudo-padrao{
+align-items: center;
+text-align: center;
+}
+.conteudo-padrao1{
+align-items: center;
+text-align: center;
+margin-top: 100px;
+margin-bottom: 100px;
+background-repeat: no-repeat;
+background-image: url(download.png);
+background-position: left;
+}
+.conteudo-padrao2{
+background-image: url(PacMan-jpg.avif);
+background-repeat: no-repeat;
+align-items: center;
+text-align: center;
+margin-top: 100px;
+margin-bottom: 100px;
+background-position: right;
+background-size: 320px;
+
+}
+.conteudo-padrao3{
+background-image: url(images.jfif);
+background-repeat:no-repeat;
+align-items:center;
+text-align:center left;
+margin-top:100px;
+margin-bottom:100px;
+background-position: left;
+background-size:320px;
+display:inline-block;
+display:inline-table;
+
+
+
+}
+.conteudo-padrao4{
+background-image: url(download\ \(1\).jfif);
+background-repeat: no-repeat;
+background-position: right;
+
+
+
+
+
+}
+.conteudo-padrao5{
+background-image: url(download\ \(2\).jfif);
+background-repeat: no-repeat;
+background-position: left;
+}
+.sexto-texto{
+color: solid black;
+display:inline-block;
+border:3px solid black;
+margin: 5px 600px 5px 600px;
+background-color: var(--cortexto);
+font-size: larger;
+
+
+
+}
+.imagem-mario{
+text-align: center;
+align-items: center;
+
+
+
+}
+.jogo-macaco{
+text-align: center;
+align-items: center;
+
+
+
+}
