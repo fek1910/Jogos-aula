@@ -95,7 +95,7 @@ font-size:larger;
 color:solid black;
 display: inline-block;
 border: 3px solid black;
-margin: 5px 400px 5px 400px;
+margin: 5px 500px 5px 500px;
 background-color: var(--cortexto);
 font-size: larger;
 }
@@ -113,7 +113,8 @@ margin-top: 100px;
 align-items: center;
 text-align: center;
 color: solid black;
-border-radius: var(--cortitulo);
+
+
 
 
 
@@ -126,42 +127,42 @@ text-align: center;
 .conteudo-padrao1{
 align-items: center;
 text-align: center;
-margin-top: 100px;
-margin-bottom: 100px;
 background-repeat: no-repeat;
-background-image: url(download.png);
-background-position: left;
+
+
 }
 .conteudo-padrao2{
-background-image: url(PacMan-jpg.avif);
+
 background-repeat: no-repeat;
 align-items: center;
 text-align: center;
 margin-top: 100px;
 margin-bottom: 100px;
 background-position: right;
-background-size: 320px;
+background-size: 100px;
+
 
 }
 .conteudo-padrao3{
-background-image: url(images.jfif);
+text-align: center;
 background-repeat:no-repeat;
 align-items:center;
-text-align:center left;
-margin-top:100px;
-margin-bottom:100px;
-background-position: left;
-background-size:320px;
-display:inline-block;
-display:inline-table;
+background-size: 320px;
+
+
+
+
+
 
 
 
 }
 .conteudo-padrao4{
-background-image: url(download\ \(1\).jfif);
+display: block;
 background-repeat: no-repeat;
-background-position: right;
+text-align: center;
+align-items: center;
+
 
 
 
@@ -169,9 +170,11 @@ background-position: right;
 
 }
 .conteudo-padrao5{
-background-image: url(download\ \(2\).jfif);
+
 background-repeat: no-repeat;
-background-position: left;
+text-align: center;
+align-items: center;
+display: block;
 }
 .sexto-texto{
 color: solid black;
@@ -194,6 +197,15 @@ align-items: center;
 .jogo-macaco{
 text-align: center;
 align-items: center;
+
+
+
+}
+.jogos-alinhar{
+align-items: center;
+text-align: center;
+margin:auto;
+width: 300px;
 
 
 
